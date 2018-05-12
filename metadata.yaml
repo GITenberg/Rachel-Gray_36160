@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38107
     wikipedia: http://en.wikipedia.org/wiki/Julia_Kavanagh
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36160#Rachel-Gray
 gutenberg_issued: '2011-05-18'
 gutenberg_type: Text
 identifiers:
