@@ -1,0 +1,29 @@
+_repo: Rachel-Gray_36160
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kavanagh, Julia
+    birthdate: 1824
+    deathdate: 1877
+    gutenberg_agent_id: '38107'
+    url: http://www.gutenberg.org/2009/agents/38107
+    wikipedia: http://en.wikipedia.org/wiki/Julia_Kavanagh
+description: ''
+gutenberg_issued: '2011-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36160'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poor -- Fiction'
+- !lcsh 'Christian life -- Fiction'
+- !lcsh 'London (England) -- Fiction'
+- !lcc 'PR'
+title: 'Rachel Gray: A Tale Founded on Fact'
+url: http://www.gutenberg.org/ebooks/36160
